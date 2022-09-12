@@ -9,19 +9,20 @@
 5. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Libraries Used <a name="libs"></a>
+There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
 
 ## Project Motivation<a name="motivation"></a>
 For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
 
-1. How other developers suggested breaking into the field (what education to pursue)?
-2. What factors about an individual contributed to salary?
-3. How bias played a role in the suggestions of developers for how to break into the field?
+1. Does career or job satisfaction have correlation with developer's salary?
+2. If the above question is true, which factors contribute to the satisfaction?
+3. Do developers have higher education get higher salary?
 4. What was the state of bootcamps for assisting individuals with breaking into developer roles?
 5. How were bootcamps assisting with increasing diversity in tech careers?
 
 ## Project Structure <a name="files"></a>
 
-There are 3 notebooks available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
+There is a notebook here to showcase work related to the above questions. The notebook is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
 
 There is an additional `.py` file that runs the necessary code to obtain the final model used to predict salary.
 
