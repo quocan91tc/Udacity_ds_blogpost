@@ -15,10 +15,9 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
 
 1. Does career or job satisfaction have correlation with developer's salary?
-2. If the above question is true, which factors contribute to the satisfaction?
-3. Do developers have higher education get higher salary?
-4. What was the state of bootcamps for assisting individuals with breaking into developer roles?
-5. How were bootcamps assisting with increasing diversity in tech careers?
+2. Do developers have higher education get higher salary?
+3. If the above question is true, which factors contribute to the satisfaction?
+4. Could taking skill course in bootcamps help developer increase their salaries?
 
 ## Project Structure <a name="files"></a>
 
