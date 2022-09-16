@@ -23,11 +23,6 @@ For this project, I was interestested in using Stack Overflow data from 2017 to 
 ## Project CRISP-DM process outlier <a name="outlier"></a>
 This project follow to the CRISP-DM process, which require:
 1. Business Understanding
-2. Data Understanding
-3. Prepare Data
-4. Evaluate the Results
-
-1. Business Understanding
     a. Brief description: An analysis base on data of StackOverflow's survey 2017 about ưhat make impact on developer salary, how to increase that.
     b. Question 1: Does career or job satisfaction have correlation with developer's salary?
     c. Question 2: Do developers have higher education get higher salary?
